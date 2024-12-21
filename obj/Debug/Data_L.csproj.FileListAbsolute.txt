@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\Data_L\bin\Debug\Data_L.dll
+C:\Users\DELL\source\repos\Data_L\bin\Debug\Data_L.pdb
+C:\Users\DELL\source\repos\Data_L\obj\Debug\Data_L.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Data_L\obj\Debug\Data_L.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Data_L\obj\Debug\Data_L.dll
+C:\Users\DELL\source\repos\Data_L\obj\Debug\Data_L.pdb
